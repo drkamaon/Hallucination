@@ -1,3 +1,4 @@
 # Hallucination
-Where my other self share its dreams
+Where my other self shares its dreams
+
 Or something
